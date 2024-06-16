@@ -1,0 +1,30 @@
+// import React from 'react'
+
+
+//  const user =[
+//      {id:1, name:"yug", age:20},
+//      {id:2, name:"yugdf", age:20},
+//      {id:3, name:"yug2482", age:20},
+//  ]
+//   const Card =({user})=>
+//   {
+//     return (
+//       <div>
+//         <h2>{user.name}</h2>
+//         <p>{user.age}</p>
+//       </div>
+//     )
+//   }
+// function list() {
+//   return (
+//     <div>
+//      {
+//      user.map(user =>{
+//          <Card key={user.id} user ={user}/>
+
+//      })}
+//     </div>
+//   )
+// }
+
+// export default list
